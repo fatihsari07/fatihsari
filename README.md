@@ -18,7 +18,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :seedling: I’m currently learning LWC, Aura, Visual Force.
 
-- https://www.pngitem.com/middle/wwRwRT_salesforce-trailhead-logo-hd-png-download/# Trailhead: 3x Ranger 5 Superbadges 182.000 point 
+- <img src="https://www.pngitem.com/middle/wwRwRT_salesforce-trailhead-logo-hd-png-download/#" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; Trailhead: 3x Ranger 5 Superbadges 182.000 point 
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)
