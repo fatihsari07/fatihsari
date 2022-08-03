@@ -12,10 +12,11 @@
 
 ### 👨‍💻: About Me :
 I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m interested in Salesforce APEX, FLOW.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :seedling: I’m currently learning LWC, Aura, Visual Force.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)
