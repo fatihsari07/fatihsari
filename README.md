@@ -13,10 +13,12 @@
 ### 👨‍💻: About Me :
 I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m interested in Salesforce APEX, FLOW.
+- :telescope: I’m interested in Salesforce APEX, LWC, Aura, Visual Force and FLOW.
 
 
-- :seedling: I’m currently learning LWC, Aura, Visual Force.
+- :seedling:  I can quickly learn most languages and tools.
+
+- 👨‍💼 I have problem-solving skills.
 
 - <img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp; Trailhead: 3x Ranger 5 Superbadges 182.000 point 
 
