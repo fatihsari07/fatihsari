@@ -20,7 +20,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - 👨‍💼 I have problem-solving skills.
 
-- <img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp; Trailhead(https://trailblazer.me/id/fatihsari/): 3x Ranger 5 Superbadges 182.000 point [![Trailhead Badge](https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp;)](https://trailblazer.me/id/fatihsari/)
+- <img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp; Trailhead: 3x Ranger 5 Superbadges 182.000 point [![Trailhead Badge](https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png)](https://trailblazer.me/id/fatihsari/)
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)
