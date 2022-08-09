@@ -13,7 +13,7 @@
 ### 👨‍💻: About Me :
 I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m interested in Salesforce APEX, LWC, Aura, Visual Force and FLOW.
+- :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce and FLOW.
 
 
 - :seedling:  I can quickly learn most languages and tools.
