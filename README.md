@@ -18,7 +18,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :seedling:  I can quickly learn most languages and tools.
 
-- 👨‍💼 I have problem-solving skills.
+- 👨‍💼 I have problem-solving skill.
 
 - <img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp; Trailhead: 3x Ranger | 5 Superbadges | 182.000 Point 
 
