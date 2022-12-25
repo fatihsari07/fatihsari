@@ -22,7 +22,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 - [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)        fatihsari1171@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
