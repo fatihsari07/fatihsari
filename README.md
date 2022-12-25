@@ -18,7 +18,6 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :seedling:  I can quickly learn most languages and tools.
 
-- 👨‍💼 I have problem-solving skill.
 
 - [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
 
