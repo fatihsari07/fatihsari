@@ -34,5 +34,5 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png" title="Git" **alt="Git" width="125" height="100"/>
-   <img src="[https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png](https://1.bp.blogspot.com/-SgEgl_mvceU/Xh84R-T7frI/AAAAAAAAA0g/LeguRKrk27oSGbBVRrULWoTW4MOxn9hZwCLcBGAsYHQ/s1600/lightning-web-components.png)" title="Git" **alt="Git" width="125" height="100"/>
+   <img src="https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png](https://1.bp.blogspot.com/-SgEgl_mvceU/Xh84R-T7frI/AAAAAAAAA0g/LeguRKrk27oSGbBVRrULWoTW4MOxn9hZwCLcBGAsYHQ/s1600/lightning-web-components.png)" title="Git" **alt="Git" width="125" height="100"/>
 </div>
