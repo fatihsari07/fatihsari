@@ -35,4 +35,5 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png" title="Git" **alt="Git" width="125" height="100"/>
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AabkIKrI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-SgEgl_mvceU/Xh84R-T7frI/AAAAAAAAA0g/LeguRKrk27oSGbBVRrULWoTW4MOxn9hZwCLcBGAsYHQ/s320/lightning-web-components.png" title="Git" **alt="Git" width="110" height="80"/>
+<img src="https://www.opencodez.com/wp-content/uploads/2017/12/Visualforce.png" title="Git" **alt="Git" width="80" height="80"/>
 </div>
