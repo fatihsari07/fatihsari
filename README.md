@@ -24,8 +24,8 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)     
 <div style="font-size:30px">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>      <h6 align="center">
-                fatihsari1171@gmail.com         
+      <h6 align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>    fatihsari1171@gmail.com         
 </h6>
 </div>
 
