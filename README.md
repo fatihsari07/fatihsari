@@ -24,14 +24,6 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 <br>
 <br>
 <br>
-<div align="center">
-:mailbox:How to reach me <br>    
-
-<h4 height="20">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>  <br>   fatihsari1171@gmail.com         
-</h4>
-</div>
-
 ### 👨‍💻: My Work :
 <div align="center">
 Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
@@ -41,7 +33,17 @@ Let's click on the photo:
 
 [<img src="https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/GitHub.jpg" title="My Work" alt="My Work" width="64" height="40"/>&nbsp;](https://github.com/fatihsari07/Developer)   
 
+</div> 
+<br>
+<br>
+<div align="center">
+:mailbox: <h4 height="20"> How to reach me </h4> <br>    
+
+<h4 height="20">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>  <br>   fatihsari1171@gmail.com         
+</h4>
 </div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
