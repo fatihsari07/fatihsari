@@ -19,10 +19,10 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 - :seedling:  I can quickly learn most languages and tools.
 - [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="My Trailhead Profile" alt="My Trailhead Profile" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
 <div align="center">
-<img src="https://www.coursejoiner.com/wp-content/uploads/2021/12/Salesforce-Certified-Platform-Developer-1-Practice-Exams.jpg" title="Git" **alt="Git" width="180" height="110"/> <br>
- <br>
-<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" title="Git" **alt="Git" width="80" height="80"/> <br>
- <br>
+<img src="https://www.coursejoiner.com/wp-content/uploads/2021/12/Salesforce-Certified-Platform-Developer-1-Practice-Exams.jpg" title="Git" **alt="Git" width="180" height="110"/> 
+ 
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" title="Git" **alt="Git" width="80" height="80"/> 
+
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Git" **alt="Git" width="80" height="80"/>  <br>
 </div>
 <br>
