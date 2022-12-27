@@ -8,8 +8,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<hr>
 ### 👨‍💻: About Me :
 I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -23,8 +22,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 </div>
 <br>
 <br>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<hr>
 ### 👨‍💻: My Work :
 <div align="center">
 <h4 height="20"> Would you like to examine my work on APEX, VisualForce, AURA, and LWC? </h4>
@@ -44,8 +42,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>  <br>   fatihsari1171@gmail.com         
 </h4>
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
