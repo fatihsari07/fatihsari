@@ -19,7 +19,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 - :seedling:  I can quickly learn most languages and tools.
 
 
-- [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="Trailhead" alt="Trailhead" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
+- [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="My Trailhead Profile" alt="My Trailhead Profile" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)     
@@ -33,7 +33,8 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 <h4>
   Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
 
-Let's click on the photo:  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx788eO88D7UpBq2HN3tg_2wFtjq7w6PvR8fPqZSTaMC7u56Qbc9QLjuBu4D4O3EZOplo&usqp=CAU" title="My Work" alt="My Work" width="32" height="20"/>&nbsp;](https://github.com/fatihsari07/Developer)     
+Let's click on the photo:  
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx788eO88D7UpBq2HN3tg_2wFtjq7w6PvR8fPqZSTaMC7u56Qbc9QLjuBu4D4O3EZOplo&usqp=CAU" title="My Work" alt="My Work" width="96" height="60"/>&nbsp;](https://github.com/fatihsari07/Developer)     
 </h4>
 
 ### :hammer_and_wrench: Languages and Tools :
