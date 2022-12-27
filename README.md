@@ -24,7 +24,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)     
 <div style="font-size:30px">
-      <h4>
+<h4>
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>    fatihsari1171@gmail.com         
 </h4>
 </div>
@@ -32,7 +32,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 ### 👨‍💻: My Work :
 <h6>
 Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
-<br>
+
 Let's click on the photo:
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx788eO88D7UpBq2HN3tg_2wFtjq7w6PvR8fPqZSTaMC7u56Qbc9QLjuBu4D4O3EZOplo&usqp=CAU" title="My Work" alt="My Work" width="64" height="40"/>&nbsp;](https://github.com/fatihsari07/Developer)     
 </h6>
