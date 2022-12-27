@@ -24,7 +24,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)    
 <div style="font-size:30px">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>      fatihsari1171@gmail.com
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>      fatihsari1171@gmail.com
 </div>
 
    
@@ -41,5 +41,5 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AabkIKrI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-SgEgl_mvceU/Xh84R-T7frI/AAAAAAAAA0g/LeguRKrk27oSGbBVRrULWoTW4MOxn9hZwCLcBGAsYHQ/s320/lightning-web-components.png" title="Git" **alt="Git" width="110" height="80"/>
 <img src="https://www.opencodez.com/wp-content/uploads/2017/12/Visualforce.png" title="Git" **alt="Git" width="110" height="80"/>
 <img src="https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/uploads/images/tin-tuc/146213/Originals/visual-studio-code_jpg.jpg" title="Git" **alt="Git" width="110" height="80"/>
-<img src="https://download.logo.wine/logo/Jira_(software)/Jira_(software)-Logo.wine.png" title="Git" **alt="Git" width="110" height="80"/>
+<img src="https://download.logo.wine/logo/Jira_(software)/Jira_(software)-Logo.wine.png" title="Git" **alt="Git" width="140" height="100"/>
 </div>
