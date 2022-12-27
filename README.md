@@ -34,7 +34,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
 
 Let's click on the photo:
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx788eO88D7UpBq2HN3tg_2wFtjq7w6PvR8fPqZSTaMC7u56Qbc9QLjuBu4D4O3EZOplo&usqp=CAU" title="My Work" alt="My Work" width="64" height="40"/>&nbsp;](https://github.com/fatihsari07/Developer)     
+[<img src="https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/GitHub.jpg" title="My Work" alt="My Work" width="64" height="40"/>&nbsp;](https://github.com/fatihsari07/Developer)     
 </h6>
 
 ### :hammer_and_wrench: Languages and Tools :
