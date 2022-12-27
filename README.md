@@ -30,12 +30,12 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 </div>
 
 ### 👨‍💻: My Work :
-<h4>
-  Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
-
-Let's click on the photo:  
+<h6>
+Would you like to examine my work on APEX, VisualForce, AURA, and LWC? 
+<br>
+Let's click on the photo:  <br>
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx788eO88D7UpBq2HN3tg_2wFtjq7w6PvR8fPqZSTaMC7u56Qbc9QLjuBu4D4O3EZOplo&usqp=CAU" title="My Work" alt="My Work" width="96" height="60"/>&nbsp;](https://github.com/fatihsari07/Developer)     
-</h4>
+</h6>
 
 ### :hammer_and_wrench: Languages and Tools :
 
