@@ -25,11 +25,11 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
  <p1> Salesforce Platform App Builder </p1> <br>
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Git" **alt="Git" width="80" height="80"/> <br> <p1> Salesforce Administrator </p1> <br>
 </div>
-
-
-
+<br>
+<br>
+<br>
 <div align="center">
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)     
+:mailbox:How to reach me <br> [![Linkedin Badge](https://img.shields.io/badge/-FatihSARI-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatihsari1/)     
 
 <h4 height="20">
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>  <br>   fatihsari1171@gmail.com         
