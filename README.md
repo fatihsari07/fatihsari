@@ -17,7 +17,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 
 
 - :seedling:  I can quickly learn most languages and tools.
-<div>
+<div align="center">
 <img src="https://www.coursejoiner.com/wp-content/uploads/2021/12/Salesforce-Certified-Platform-Developer-1-Practice-Exams.jpg" title="Git" **alt="Git" width="160" height="110"/> <br>
  <p1> Salesforce Platform Developer I </p1> <br>
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" title="Git" **alt="Git" width="80" height="80"/> <br>
