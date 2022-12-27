@@ -25,7 +25,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 👨‍💻: About Me :
+### 👨‍💻: My Work :
 <div align="center">
 <h4 height="20"> Would you like to examine my work on APEX, VisualForce, AURA, and LWC? </h4>
 
@@ -44,7 +44,7 @@ I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/me
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" title="Git" **alt="Git" width="20" height="20"/>  <br>   fatihsari1171@gmail.com         
 </h4>
 </div>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools :
 
