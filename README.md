@@ -10,7 +10,7 @@
 </div>
 <hr>
 <h1> 👨‍💻 About Me: </h1>
-I am a Salesforce Developer / Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce and FLOW.
 
