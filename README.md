@@ -13,11 +13,11 @@
 <div align="center">
 I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce and FLOW.
+ :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce, and FLOW.
 
 
-- :seedling:  I can quickly learn most languages and tools.
-- [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="My Trailhead Profile" alt="My Trailhead Profile" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
+ :seedling:  I can quickly learn most languages and tools.
+ [<img src="https://www.pngitem.com/pimgs/m/132-1320381_salesforce-trailhead-logo-hd-png-download.png" title="My Trailhead Profile" alt="My Trailhead Profile" width="32" height="20"/>&nbsp;](https://trailblazer.me/id/fatihsari/) Trailhead Triple Star Ranger | 5 Superbadges | 190.000 Point
 </div>
 <div align="center">
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" title="Git" **alt="Git" width="80" height="80"/> <br> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" title="Git" **alt="Git" width="80" height="80"/>        <br>          <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Git" **alt="Git" width="80" height="80"/>  <br>
