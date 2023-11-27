@@ -12,7 +12,8 @@
 <h1 align="center"> 👨‍💻 About Me: </h1>
 <div align="center">
 I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+<br>
+<br>
  :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce, and FLOW.
 
 
