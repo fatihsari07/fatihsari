@@ -15,8 +15,9 @@ I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 <br>
 <br>
  :telescope: I’m interested in Salesforce APEX, LWC, Aura, VisualForce, and FLOW.
+
 <br>
-<br>
+
 
  :seedling:  I can quickly learn most languages and tools. <br>
 <br>
