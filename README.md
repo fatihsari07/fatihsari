@@ -32,7 +32,7 @@ I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 <br>
 <br>
 <hr>
-<h1> 👨‍💻: My Work: </h1>
+<h1 align="center"> 👨‍💻: My Work: </h1>
 <div align="center">
 <h4 height="20"> Would you like to examine my work on APEX, VisualForce, AURA, and LWC? </h4>
 
@@ -52,7 +52,7 @@ I am a Salesforce Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 </h4>
 </div>
 <hr>
-<h1> :hammer_and_wrench: Languages and Tools: </h1>
+<h1 align="center"> :hammer_and_wrench: Languages and Tools: </h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
